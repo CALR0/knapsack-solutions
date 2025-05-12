@@ -1,4 +1,4 @@
-# 🔎 Métodos de búsqueda bioinspirados: Colonia de Hormigas y enfriamiento simulado  
+# 🔎 Métodos de búsqueda bioinspirados: Colonia de Hormigas y Enfriamiento Simulado  
 
 > Un proyecto académico sobre cómo la naturaleza inspira soluciones inteligentes para problemas complejos.
 
