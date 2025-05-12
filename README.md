@@ -1,4 +1,4 @@
-# 🔎 Métodos de Búsqueda Bioinspirados: Colonia de Hormigas y Enfriamiento Simulado  
+# 🔎 Métodos de búsqueda bioinspirados: Colonia de Hormigas y enfriamiento simulado  
 
 > Un proyecto académico sobre cómo la naturaleza inspira soluciones inteligentes para problemas complejos.
 
@@ -8,11 +8,11 @@
 
 La naturaleza, con su increíble capacidad de adaptación, ha servido de modelo para crear algoritmos que resuelven problemas de optimización difíciles de abordar por métodos tradicionales. En este proyecto, exploramos dos técnicas bioinspiradas que han revolucionado la forma en que resolvemos problemas complejos:
 
-### Colonia de Hormigas (Ant Colony Optimization)
+### Colonia de hormigas (Ant Colony Optimization)
 
 Inspirado en el comportamiento colectivo de las hormigas, este algoritmo simula cómo los individuos dejan rastros de feromonas para encontrar rutas óptimas hacia fuentes de alimento. Es ampliamente utilizado para resolver problemas como el del viajante (TSP) y otros retos combinatorios.
 
-### Enfriamiento Simulado (Simulated Annealing)
+### Enfriamiento simulado (Simulated Annealing)
 
 Basado en el proceso físico de enfriamiento de metales, este algoritmo busca soluciones óptimas aceptando, de forma controlada, soluciones peores para escapar de óptimos locales. Es una técnica poderosa para problemas de optimización con múltiples soluciones subóptimas.
 
